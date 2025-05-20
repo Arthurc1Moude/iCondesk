@@ -52,7 +52,7 @@ iCondesk is a powerful iOS application that enables seamless connectivity betwee
 
 ## Installation
 
-1. Download the iCondesk app from the App Store
+1. We haven't public our app the AppStore yet, we're internal testing
 2. Install the appropriate desktop client for your computer from our website
 3. Follow the setup instructions for your specific platform
 4. Connect your iOS device to your computer using your preferred connection method
